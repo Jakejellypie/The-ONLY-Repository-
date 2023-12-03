@@ -1,0 +1,10 @@
+html{
+    font-family:fantasy;
+}
+
+
+body {
+    padding: 50px;
+    background-image: url(../Misc/photos/Lego_Background.jpg);
+    text-align: center;
+}
